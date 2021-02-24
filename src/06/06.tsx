@@ -12,9 +12,6 @@ export type ManType = {
 }
 
 
-
-
-
 type PropsType = {
     title: string,
     man: ManType
